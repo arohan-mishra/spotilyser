@@ -20,6 +20,7 @@
   <img  src="img/4.png">
   <img  src="img/5.png">
   <img  src="img/6.png">
+  <img  src="img/7.png">
 </p>
 
 ## Contributors
